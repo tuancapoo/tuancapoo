@@ -1,7 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Nguyen Minh Tuan👋
 
+I'm a 3rd-year Computer Science student at Ho Chi Minh City University of Technology (HCMUT), specializing in Software Engineer. My focus is on Java and Spring Boot.
+
+---
+- - 🔭 I’m currently working on ...
+- Spring Framework, Java
+- Mongodb, MySQL, SQL Server, Posgres
+- WebSocket, Socket.Io
+- Git, docker, Kafka
+- - 🌱 I’m currently learning ...
+- React, JavaScript
+---
+--😄A Bit About Me
+- I love cat
+- One of my hobbies is making clay sculptures 🎨
 <!--
-**tuancapoo/tuancapoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
