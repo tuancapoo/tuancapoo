@@ -13,7 +13,7 @@ I'm a 3rd-year Computer Science student at Ho Chi Minh City University of Techno
 ---
 --😄A Bit About Me
 - I love cat
-- One of my hobbies is making clay sculptures 🎨
+- One of my hobbies is making clay sculptures/figures to give to my family and close friend🎨
 <!--
 
 Here are some ideas to get you started:
